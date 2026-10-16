@@ -8,7 +8,7 @@ public class DemoJenkinsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoJenkinsApplication.class, args);
-        System.out.println("Application is running! v2.0.0 - test";
+        System.out.println("Application is running! v3.0.0 - test");
     }
 
 }
